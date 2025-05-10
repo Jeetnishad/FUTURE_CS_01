@@ -1,36 +1,37 @@
-# WEB APPLICATION SECURITY TESTING – TASK 1
+# 🛡️ WEB APPLICATION SECURITY TESTING – TASK 1
 
-## REPOSITORY STRUCTURE
+## 🗂️ REPOSITORY STRUCTURE
 
-### SQLINJECTION/
+### 💻 SQLINJECTION/
 Contains:
 - Screenshots of successful SQL injection attacks.
 - Video demos of data extraction.
 
-### XSS/
+### 🧩 XSS/
 Contains:
 - XSS attack examples.
 - Reflected XSS to get the session ID, etc.
 
-### AUTHFLAWS/
+### 🔐 AUTHFLAWS/
 Contains:
-- The report of vulnerabilities found after scanning with OWASP ZAP.
+- The report of vulnerabilities found after scanning with **OWASP ZAP**.
 
-### FINALREPORT/
+### 📑 FINALREPORT/
 Contains:
-- Task1_WebAppTesting_Report.docm: The final detailed report of all findings, tools used, and mitigation strategies.
+- **Task1_WebAppTesting_Report.docm**: The final detailed report of all findings, tools used, and mitigation strategies.
 
-## TOOLS USED
-- Burp Suite
-- SQLMap
-- OWASP ZAP
-- DVWA as the target application
+## 🧰 TOOLS USED
+- **Burp Suite** 🛠️
+- **SQLMap** 🛠️
+- **OWASP ZAP** 🛠️
+- **DVWA** as the target application
 
-## SUMMARY
-Vulnerabilities Tested: SQL Injection, XSS, Authentication Flaws.
-Skills Gained: Web App Penetration Testing, Vulnerability Analysis, Ethical Hacking.
+## 📌 SUMMARY
+- **Vulnerabilities Tested**: SQL Injection, XSS, Authentication Flaws.
+- **Skills Gained**: Web App Penetration Testing, Vulnerability Analysis, Ethical Hacking.
+- **Documentation**: All findings have been documented with visuals and supported by mitigation recommendations.
 
-## CONTACT
-Author: Jeet Nishad  
-Email: jeetnishad12@gmail.com  
-Date: April 2025
+## 📧 CONTACT
+**Author**: Jeet Nishad  
+**Email**: [jeetnishad12@gmail.com](mailto:jeetnishad12@gmail.com)  
+**Date**: April 2025
